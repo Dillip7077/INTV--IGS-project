@@ -13,6 +13,8 @@
     font-size: 4.2rem;
     font-weight: 500;
     padding-left: 2rem;
+    padding-top: 4.5rem;
+    
   }
   .titleTwo{
     font: inherit;
@@ -66,8 +68,12 @@
     object-fit: contain;
   }
   .image{
-    width: 100%;
-    height: 100%;
+
+  width: 443.51px;
+  height: 509.07px;
+  top: 172px;
+  left: 832.32px;
+
   }
   .statusMsg{
     position: absolute;
