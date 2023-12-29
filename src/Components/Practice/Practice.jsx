@@ -17,6 +17,7 @@ const Practice = () => {
             alt='business law'
             className={styles.practiceImg}
           />
+          <div class="gradient-overlay"></div>
           <p className={styles.subText}>BUSINESS LAW</p>
         </div>
         <div className={`${styles.item2} ${styles.pictures}`}>
